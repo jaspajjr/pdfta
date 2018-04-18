@@ -10,7 +10,7 @@ googleAnalytics = ""
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Your name"
-  description = "Your description"
+  description = "Manchester Data Science Consultancy, Predictive Analytics for eCommerce"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -78,19 +78,19 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-shopping-cart"
       title = "Fraud Detection"
-      description = "ML based Fraud Detection"
+      description = "Machine Learning enabled Fraud Detection. Identify customers likely to default before they do, letting you stay in control."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Forecasting"
-      description = "Forecasting traffic, subscriptions and more."
+      description = "Demand forecasting, subscriptions and more."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-lock"
-      title = "DevOps"
-      description = "Implementation lead Data Science, working with you all the way to project completion."
+      title = "eCommerce focus"
+      description = "Real-time customer lifetime value, customer segmentation, propensity to buy"
       url = "#"
 
   # Portfolio section
