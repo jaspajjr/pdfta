@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "PDFTA - Data Science"
 theme = "hugo-agency-theme"
 
-googleAnalytics = ""
+googleAnalytics = "UA-61705551-2"
 
 [params]
   # To provide some metadata for search engines feel free to add a few
