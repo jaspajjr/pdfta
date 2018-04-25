@@ -62,8 +62,8 @@ googleAnalytics = "UA-61705551-2"
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Work Smart"
-    subtitle = "Make your data work harder"
+    title = ""
+    subtitle = "Your can use data to increase your revenue?"
     buttonText = "Our Services"
 
 
@@ -77,20 +77,20 @@ googleAnalytics = "UA-61705551-2"
 
     [[params.services.row.list]]
       icon = "fa-shopping-cart"
-      title = "Fraud Detection"
-      description = "Machine Learning enabled Fraud Detection. Identify customers likely to default before they do, letting you stay in control."
+      title = "eCommerce Speciality"
+      description = "Directly impact your bottom line, using real-time customer segmentation allows you to deliver a personalized customer experience. Customer lifetime value allows you to project who your most valuable customers will be, when they're at risk of churning so you can stay ahead of the curve. Our real-time fraud detection model identifies dishonest transactions, allowing you to focus on genuine customers."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Forecasting"
-      description = "Demand forecasting, subscriptions and more."
+      description = "Forecasting is useful to many organisations, from capacity planning to anomaly detection, and demand forecasting. The production of reliable, high quality predictions can add value across the business. Our machine learning algorithms can add value immediately."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-lock"
-      title = "eCommerce focus"
-      description = "Real-time customer lifetime value, customer segmentation, propensity to buy"
+      title = "Data Science Consulting"
+      description = "Want to build an in house data science team? Get started with your first data science project? We can help you get setup with strong foundations and best practices."
       url = "#"
 
   # Portfolio section
